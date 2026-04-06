@@ -128,6 +128,16 @@ namespace MyFirstWebSite
         private static string GetDataFileName()
         {
             string appDataFolderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "App_Data");
+            if (!Directory.Exists(appDataFolderPath))
+            {
+                appDataFolderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "app_data");
+            }
+
+            if (!Directory.Exists(appDataFolderPath))
+            {
+                throw new DirectoryNotFoundException("Neither App_Data nor app_data folder exists.");
+            }
+
             string[] mdfFiles = Directory.GetFiles(appDataFolderPath, "*.mdf");
 
             if (mdfFiles.Length == 0)
