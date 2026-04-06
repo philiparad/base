@@ -1,0 +1,472 @@
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\myAtar.dll.config
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\myAtar.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\myAtar.pdb
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\csc.exe
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\csi.exe
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\obj\Debug\myAtar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\obj\Debug\myAtar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\obj\Debug\myAtar.csproj.Up2Date
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\obj\Debug\myAtar.dll
+C:\Users\user\Desktop\משימות הנדסת תוכנה עם לימור\myAtar\myAtar\obj\Debug\myAtar.pdb
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\myAtar.dll.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\myAtar.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\myAtar.pdb
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\csc.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\csc.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\csc.rsp
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\csi.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\csi.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\csi.rsp
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.AppContext.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Console.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.IO.Compression.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Net.Http.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.ValueTuple.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\vbc.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\vbc.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\vbc.rsp
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\obj\Debug\myAtar.csproj.AssemblyReference.cache
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\obj\Debug\myAtar.csproj.CoreCompileInputs.cache
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\obj\Debug\myAtar.csproj.Up2Date
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\obj\Debug\myAtar.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar002\myAtar\myAtar\obj\Debug\myAtar.pdb
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\myAtar.dll.config
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\myAtar.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\myAtar.pdb
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\csc.exe
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\csi.exe
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\obj\Debug\myAtar.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\obj\Debug\myAtar.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\obj\Debug\myAtar.csproj.Up2Date
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\obj\Debug\myAtar.dll
+C:\Users\user\Downloads\myAtar\myAtar\myAtar\obj\Debug\myAtar.pdb
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\myAtar.dll.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\myAtar.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\myAtar.pdb
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\csc.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\csc.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\csc.rsp
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\csi.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\csi.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\csi.rsp
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.AppContext.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Console.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.IO.Compression.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Net.Http.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.ValueTuple.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\vbc.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\vbc.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\vbc.rsp
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\obj\Debug\myAtar.csproj.AssemblyReference.cache
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\obj\Debug\myAtar.csproj.CoreCompileInputs.cache
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\obj\Debug\myAtar.csproj.Up2Date
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\obj\Debug\myAtar.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250323\myAtar\myAtar\obj\Debug\myAtar.pdb
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\myAtar.dll.config
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\myAtar.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\myAtar.pdb
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\csc.exe
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\csi.exe
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\obj\Debug\myAtar.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\obj\Debug\myAtar.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\obj\Debug\myAtar.csproj.Up2Date
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\obj\Debug\myAtar.dll
+C:\Users\user\Downloads\myAtar20250323 (2)\myAtar20250323\myAtar\myAtar\obj\Debug\myAtar.pdb
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\obj\Debug\myAtar.csproj.AssemblyReference.cache
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\obj\Debug\myAtar.csproj.CoreCompileInputs.cache
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\obj\Debug\myAtar.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\obj\Debug\myAtar.pdb
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\myAtar.dll.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\myAtar.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\myAtar.pdb
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\csc.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\csc.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\csc.rsp
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\csi.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\csi.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\csi.rsp
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.AppContext.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Console.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.IO.Compression.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Net.Http.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.ValueTuple.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\vbc.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\vbc.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\vbc.rsp
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phili\Downloads\נועם אשכנזי\myAtar20250502\myAtar\myAtar\obj\Debug\myAtar.csproj.Up2Date
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\myAtar.dll.config
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\myAtar.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\myAtar.pdb
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\csc.exe
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\csi.exe
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\obj\Debug\myAtar.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\obj\Debug\myAtar.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\obj\Debug\myAtar.csproj.Up2Date
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\obj\Debug\myAtar.dll
+C:\Users\user\Downloads\myAtar20250502 (1)\myAtar20250502\myAtar\myAtar\obj\Debug\myAtar.pdb
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\myAtar.dll.config
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\myAtar.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\myAtar.pdb
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\csc.exe
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\csc.exe.config
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\csc.rsp
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\csi.exe
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\csi.exe.config
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\csi.rsp
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.AppContext.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Console.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.IO.Compression.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Net.Http.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.ValueTuple.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\vbc.exe
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\vbc.exe.config
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\vbc.rsp
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\obj\Debug\myAtar.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\obj\Debug\myAtar.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\obj\Debug\myAtar.csproj.Up2Date
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\obj\Debug\myAtar.dll
+C:\Users\phili\OneDrive\Desktop\לימודים\מדמח\כיתה י\תבא\נועם אשכנזי\myAtar20250508\myAtar\myAtar\obj\Debug\myAtar.pdb
