@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="base.Site1" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title></title>
+    <link href="/css/main.css" rel="stylesheet" />
+    <!-- Link External JavaScript -->
+    <script src="/JavaScript/JavaScript.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <header>
+        <div class="menu">
+            <img class="right" width="98" height="98" runat="server" />
+            <% if (Session["IsLoggedIn"] != null && (bool)Session["IsLoggedIn"])
+                { %>
+            <a class="button" href="~/pages/user/logout.aspx" runat="server">Logout</a>
+            <% }
+            else
+            { %>
+            <a class="button" href="~/pages/user/login.aspx" runat="server">Login</a>
+            <% } %>
+            <a class="button" href="~/pages/user/new_person.aspx" runat="server">sign up</a>
+            <a class="button" href="~/pages/galery.aspx" runat="server">gallery</a>
+
+            <a class="button" href="~/pages/user/about.aspx" runat="server">About</a>
+            <a class="button" href="~/pages/user/regulations.aspx" runat="server">Regulations</a>
+
+            <% if (Session["IsLoggedIn"] != null && (bool)Session["IsLoggedIn"]) 
+                { %>
+                <a class="button" href="~/pages/user/userPage.aspx" runat="server">Update details</a>
+            <% } %>
+
+            <% if (Session["IsAdmin"] != null && (bool)Session["IsAdmin"])
+                { %>
+            <a class="button" href="~/pages/user/adminPage.aspx" runat="server">Admin Page</a>
+            <% } %>
+
+            <% if (!System.IO.Path.GetFileName(Request.Url.AbsolutePath).Equals("home.aspx", StringComparison.OrdinalIgnoreCase))
+                { %>
+            <a class="button" href="/home.aspx">Home Page</a>
+            <% } %>
+
+        </div>
+        <div id="Username" name="Username" runat="server"></div>
+        <div id="numofmishtamshim" name="numofmishtamshim" runat="server"></div>
+    </header>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    <p style="margin-bottom: 100px;">&nbsp;</p>
+    <footer>
+        <p>FOOTER</p>
+    </footer>
+</body>
+</html>
