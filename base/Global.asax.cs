@@ -17,7 +17,7 @@ namespace @base
 
         protected void Session_Start(object sender, EventArgs e)
         {
-            Session["user"] = "visitor";
+            Session["Username"] = "visitor";
         }
 
         protected void Application_BeginRequest(object sender, EventArgs e)
