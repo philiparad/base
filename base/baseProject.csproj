@@ -75,6 +75,15 @@
     <Content Include="Global.asax" />
     <Content Include="home.aspx" />
     <Content Include="pages\galery.aspx" />
+    <Content Include="pages\user\about.aspx" />
+    <Content Include="pages\user\adminPage.aspx" />
+    <Content Include="pages\user\forgot_pass.aspx" />
+    <Content Include="pages\user\login.aspx" />
+    <Content Include="pages\user\logout.aspx" />
+    <Content Include="pages\user\new_person.aspx" />
+    <Content Include="pages\user\regulations.aspx" />
+    <Content Include="pages\user\reset_password.aspx" />
+    <Content Include="pages\user\userPage.aspx" />
     <Content Include="pics\general\home.jpeg" />
     <Content Include="pics\general\logo.png" />
     <Content Include="pics\general\main.jpg" />
@@ -98,6 +107,69 @@
     </Compile>
     <Compile Include="pages\galery.aspx.designer.cs">
       <DependentUpon>galery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\user\about.aspx.cs">
+      <DependentUpon>about.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\user\about.aspx.designer.cs">
+      <DependentUpon>about.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\user\adminPage.aspx.cs">
+      <DependentUpon>adminPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\user\adminPage.aspx.designer.cs">
+      <DependentUpon>adminPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\user\forgot_pass.aspx.cs">
+      <DependentUpon>forgot_pass.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\user\forgot_pass.aspx.designer.cs">
+      <DependentUpon>forgot_pass.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\user\login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\user\login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\user\logout.aspx.cs">
+      <DependentUpon>logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\user\logout.aspx.designer.cs">
+      <DependentUpon>logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\user\new_person.aspx.cs">
+      <DependentUpon>new_person.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\user\new_person.aspx.designer.cs">
+      <DependentUpon>new_person.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\user\regulations.aspx.cs">
+      <DependentUpon>regulations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\user\regulations.aspx.designer.cs">
+      <DependentUpon>regulations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\user\reset_password.aspx.cs">
+      <DependentUpon>reset_password.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\user\reset_password.aspx.designer.cs">
+      <DependentUpon>reset_password.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\user\userPage.aspx.cs">
+      <DependentUpon>userPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\user\userPage.aspx.designer.cs">
+      <DependentUpon>userPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site1.Master.cs">
